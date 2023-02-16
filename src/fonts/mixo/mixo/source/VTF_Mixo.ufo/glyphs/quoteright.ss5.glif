@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright.ss5" format="1">
+  <advance width="334"/>
+  <unicode hex="E0E8"/>
+  <outline>
+    <contour>
+      <point x="284" y="516" type="line"/>
+      <point x="65" y="306" type="line"/>
+      <point x="244" y="700" type="line"/>
+      <point x="65" y="700" type="line"/>
+      <point x="65" y="516" type="line"/>
+    </contour>
+  </outline>
+</glyph>

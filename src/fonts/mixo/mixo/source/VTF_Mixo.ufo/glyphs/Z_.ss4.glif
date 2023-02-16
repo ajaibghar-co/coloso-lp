@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z.ss4" format="1">
+  <advance width="556"/>
+  <unicode hex="E083"/>
+  <outline>
+    <contour>
+      <point x="476" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="80" y="243" type="line"/>
+      <point x="324" y="663" type="line"/>
+      <point x="344" y="663" type="line"/>
+      <point x="80" y="204" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="476" y="457" type="line"/>
+      <point x="233" y="37" type="line"/>
+      <point x="211" y="37" type="line"/>
+      <point x="476" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="374" type="line"/>
+      <point x="116" y="663" type="line"/>
+      <point x="281" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="316" type="line"/>
+      <point x="438" y="37" type="line"/>
+      <point x="273" y="37" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="500" type="line"/>
+      <point x="169" y="37" type="line"/>
+      <point x="116" y="37" type="line"/>
+      <point x="116" y="192" type="line"/>
+      <point x="386" y="663" type="line"/>
+      <point x="438" y="663" type="line"/>
+    </contour>
+  </outline>
+</glyph>

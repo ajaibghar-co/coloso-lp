@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar.ss2" format="1">
+  <advance width="275"/>
+  <unicode hex="E10E"/>
+  <outline>
+    <contour>
+      <point x="235" y="738" type="line"/>
+      <point x="40" y="738" type="line"/>
+      <point x="85" y="622" type="line"/>
+      <point x="85" y="84" type="line"/>
+      <point x="40" y="-33" type="line"/>
+      <point x="235" y="-33" type="line"/>
+      <point x="191" y="84" type="line"/>
+      <point x="191" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="622" type="line"/>
+      <point x="158" y="622" type="line"/>
+      <point x="158" y="84" type="line"/>
+      <point x="142" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="84" type="line"/>
+      <point x="118" y="84" type="line"/>
+      <point x="118" y="622" type="line"/>
+      <point x="133" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="622" type="line"/>
+      <point x="109" y="622" type="line"/>
+      <point x="109" y="84" type="line"/>
+      <point x="93" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="84" type="line"/>
+      <point x="166" y="84" type="line"/>
+      <point x="166" y="622" type="line"/>
+      <point x="182" y="622" type="line"/>
+    </contour>
+  </outline>
+</glyph>

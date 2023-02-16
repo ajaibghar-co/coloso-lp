@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.ss4" format="1">
+  <advance width="387"/>
+  <unicode hex="E092"/>
+  <outline>
+    <contour>
+      <point x="167" y="453" type="line"/>
+      <point x="193" y="587" type="line"/>
+      <point x="219" y="453" type="line"/>
+      <point x="328" y="528" type="line"/>
+      <point x="255" y="417" type="line"/>
+      <point x="384" y="391" type="line"/>
+      <point x="255" y="365" type="line"/>
+      <point x="328" y="253" type="line"/>
+      <point x="219" y="329" type="line"/>
+      <point x="193" y="195" type="line"/>
+      <point x="167" y="329" type="line"/>
+      <point x="58" y="253" type="line"/>
+      <point x="130" y="365" type="line"/>
+      <point x="2" y="391" type="line"/>
+      <point x="130" y="417" type="line"/>
+      <point x="58" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

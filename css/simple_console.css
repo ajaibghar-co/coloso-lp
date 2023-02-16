@@ -1,0 +1,118 @@
+@font-face {
+  font-family: "Lithops";
+  src: url("../src/fonts/lithops-main/lithops-main/fonts/webfonts/Lithops-Regular.woff")
+      format("woff"),
+    url("../src/fonts/lithops-main/lithops-main/fonts/webfonts/Lithops-Regular.woff2")
+      format("woff2");
+}
+@font-face {
+  font-family: "Montchauve";
+  src: url("../src/fonts/montchauve/montchauve/Montchauve.otf") format("otf");
+}
+
+@font-face {
+  font-family: "VTF_Mixo";
+  src: url("../src/fonts/mixo/mixo/VTF_Mixo.otf") format("otf");
+  src: url("../src/fonts/mixo/mixo/webfonts/VTF_Mixo-Regular_web.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "pilowlava";
+  src: url("../src/fonts/pilowlava-master/pilowlava-master/Fonts/webfonts/Pilowlava-Regular.eot")
+    format("eot");
+  src: url("../src/fonts/pilowlava-master/pilowlava-master/Fonts/webfonts/Pilowlava-Regular.woff")
+      format("woff"),
+    url("../src/fonts/pilowlava-master/pilowlava-master/Fonts/webfonts/Pilowlava-Regular.woff2")
+      format("woff2");
+}
+
+@font-face {
+  font-family: "tiny";
+  src: url("../src/fonts/tinyfonts-master/tinyfonts-master/fonts/webfonts/TINY5x3-140.woff")
+      format("woff"),
+    url("../src/fontstinyfonts-master/tinyfonts-master/fonts/webfonts/TINY5x3-140.woff2")
+      format("woff2");
+}
+
+@font-face {
+  font-family: "tinyvar";
+  src: url("../src/fonts/tinyfonts-master/tinyfonts-master/fonts/variable/TINY5x3GX.ttf");
+}
+
+@font-face {
+  font-family: "wethard";
+  src: url("/css/WetHard-Regular.otf") format("opentype");
+}
+
+body {
+  /* font-family: "Hermit-Light.otf", monospace; */
+  background: rgb(185,73,130);
+  background: radial-gradient(circle, rgba(185,73,130,1) 0%, rgba(173,213,174,1) 100%);
+}
+
+pre {
+  display: block;
+}
+
+#title {
+  /* float: right; */
+  display: flex;
+  flex-direction: column;
+  width: 40em;
+  padding: 2em;
+  align-items: center ;
+}
+#welcome {
+  /* padding:1em;   */
+  font-family: "tinyvar", serif;
+  font-size: 16em;
+  color: #b94982;
+  font-variation-settings: "wght" 90;
+  /* transition: font-variation-settings 0.3s ease; */
+
+}
+/* 
+#welcome:hover {
+  font-variation-settings: "wght" 180;
+} */
+
+#inst {
+padding:1em;
+margin-top: 2em;
+  /* font-family:  Courier, monospace; */
+  font-family: 'Poppins', sans-serif;
+  font-size: large;
+ 
+}
+
+#inst p{
+  padding:1em;
+  color: #fff;
+}
+@keyframes wacky {
+  0% {
+    font-variation-settings: "wght" 60;
+  }
+  25% {
+    font-variation-settings: "wght" 100;
+  }
+  50% {
+    font-variation-settings: "wght" 150;
+  }
+  75% {
+    font-variation-settings: "wght" 180;
+  }
+  100% {
+    font-variation-settings: "wght" 60;
+  }
+} 
+
+ h1 {
+  animation: wacky infinite;
+  animation-duration: 5s;
+  animation-timing-function: ease;
+  margin: 0 auto;
+  line-height: 1;
+  font-weight: normal;
+}

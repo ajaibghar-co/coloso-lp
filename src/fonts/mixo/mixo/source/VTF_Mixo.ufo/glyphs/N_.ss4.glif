@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.ss4" format="1">
+  <advance width="787"/>
+  <unicode hex="E047"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="266" y="189" type="line"/>
+      <point x="266" y="306" type="line"/>
+      <point x="707" y="-37" type="line"/>
+      <point x="707" y="700" type="line"/>
+      <point x="285" y="700" type="line"/>
+      <point x="521" y="511" type="line"/>
+      <point x="521" y="385" type="line"/>
+      <point x="80" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="635" type="line"/>
+      <point x="568" y="290" type="line"/>
+      <point x="568" y="531" type="line"/>
+      <point x="415" y="655" type="line"/>
+      <point x="657" y="655" type="line"/>
+      <point x="657" y="63" type="line"/>
+      <point x="219" y="406" type="line"/>
+      <point x="219" y="169" type="line"/>
+      <point x="372" y="45" type="line"/>
+      <point x="130" y="45" type="line"/>
+    </contour>
+  </outline>
+</glyph>

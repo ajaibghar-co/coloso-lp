@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash.ss4" format="1">
+  <advance width="780"/>
+  <unicode hex="E0AB"/>
+  <outline>
+    <contour>
+      <point x="388" y="383" type="curve" smooth="yes"/>
+      <point x="164" y="383"/>
+      <point x="45" y="426"/>
+      <point x="45" y="426" type="curve"/>
+      <point x="45" y="277" type="line"/>
+      <point x="45" y="277"/>
+      <point x="164" y="320"/>
+      <point x="388" y="320" type="curve" smooth="yes"/>
+      <point x="611" y="320"/>
+      <point x="734" y="277"/>
+      <point x="734" y="277" type="curve"/>
+      <point x="734" y="426" type="line"/>
+      <point x="734" y="426"/>
+      <point x="611" y="383"/>
+    </contour>
+  </outline>
+</glyph>

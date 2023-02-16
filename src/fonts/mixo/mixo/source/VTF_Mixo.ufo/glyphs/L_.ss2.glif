@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L.ss2" format="1">
+  <advance width="586"/>
+  <unicode hex="E03A"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="616" y="224" type="line"/>
+      <point x="302" y="224" type="line"/>
+      <point x="302" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

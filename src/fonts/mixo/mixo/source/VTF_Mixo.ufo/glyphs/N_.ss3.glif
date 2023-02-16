@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.ss3" format="1">
+  <advance width="672"/>
+  <unicode hex="E046"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="278" y="276" type="line"/>
+      <point x="592" y="-24" type="line"/>
+      <point x="592" y="702" type="line"/>
+      <point x="393" y="702" type="line"/>
+      <point x="393" y="421" type="line"/>
+      <point x="80" y="726" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft.ss4" format="1">
+  <advance width="329"/>
+  <unicode hex="E0E2"/>
+  <outline>
+    <contour>
+      <point x="259" y="310" type="line"/>
+      <point x="233" y="310" type="line"/>
+      <point x="233" y="310"/>
+      <point x="239" y="590"/>
+      <point x="5" y="590" type="curve"/>
+      <point x="5" y="720" type="line"/>
+      <point x="259" y="720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

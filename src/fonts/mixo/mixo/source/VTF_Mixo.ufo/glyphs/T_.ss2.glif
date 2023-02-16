@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.ss2" format="1">
+  <advance width="461"/>
+  <unicode hex="E063"/>
+  <outline>
+    <contour>
+      <point x="-40" y="700" type="line"/>
+      <point x="40" y="532" type="line"/>
+      <point x="148" y="532" type="line"/>
+      <point x="148" y="50" type="line"/>
+      <point x="232" y="-32" type="line"/>
+      <point x="317" y="50" type="line"/>
+      <point x="317" y="532" type="line"/>
+      <point x="421" y="532" type="line"/>
+      <point x="501" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

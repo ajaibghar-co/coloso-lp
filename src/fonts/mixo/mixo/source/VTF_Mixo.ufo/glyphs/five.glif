@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="1">
+  <advance width="383"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="36" y="306" type="line"/>
+      <point x="36" y="306"/>
+      <point x="79" y="341"/>
+      <point x="166" y="341" type="curve"/>
+      <point x="256" y="341"/>
+      <point x="323" y="312"/>
+      <point x="323" y="233" type="curve" smooth="yes"/>
+      <point x="323" y="155"/>
+      <point x="253" y="123"/>
+      <point x="166" y="123" type="curve"/>
+      <point x="77" y="123"/>
+      <point x="30" y="177"/>
+      <point x="30" y="177" type="curve"/>
+      <point x="20" y="35" type="line"/>
+      <point x="20" y="35"/>
+      <point x="70" y="-8"/>
+      <point x="166" y="-8" type="curve"/>
+      <point x="293" y="-8"/>
+      <point x="364" y="96"/>
+      <point x="364" y="233" type="curve" smooth="yes"/>
+      <point x="364" y="376"/>
+      <point x="289" y="472"/>
+      <point x="166" y="472" type="curve"/>
+      <point x="107" y="472"/>
+      <point x="85" y="455"/>
+      <point x="85" y="455" type="curve"/>
+      <point x="90" y="562" type="line"/>
+      <point x="324" y="562" type="line"/>
+      <point x="334" y="700" type="line"/>
+      <point x="56" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>337</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.ss2" format="1">
+  <advance width="560"/>
+  <unicode hex="E045"/>
+  <outline>
+    <contour>
+      <point x="-20" y="673" type="line"/>
+      <point x="76" y="673" type="line"/>
+      <point x="76" y="27" type="line"/>
+      <point x="-20" y="27" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="209" y="27" type="line"/>
+      <point x="106" y="27" type="line"/>
+      <point x="106" y="482" type="line"/>
+      <point x="517" y="-30" type="line"/>
+      <point x="516" y="673" type="line"/>
+      <point x="616" y="673" type="line"/>
+      <point x="616" y="700" type="line"/>
+      <point x="387" y="700" type="line"/>
+      <point x="387" y="673" type="line"/>
+      <point x="486" y="673" type="line"/>
+      <point x="486" y="221" type="line"/>
+      <point x="106" y="700" type="line"/>
+      <point x="-20" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="57" type="line"/>
+      <point x="106" y="529" type="line"/>
+      <point x="106" y="650" type="line"/>
+      <point x="486" y="171" type="line"/>
+    </contour>
+  </outline>
+</glyph>

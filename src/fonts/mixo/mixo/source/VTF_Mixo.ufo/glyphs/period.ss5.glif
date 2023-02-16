@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.ss5" format="1">
+  <advance width="356"/>
+  <unicode hex="E0D9"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="75" y="54" type="line"/>
+      <point x="75" y="157" type="line"/>
+      <point x="128" y="209" type="line"/>
+      <point x="227" y="209" type="line"/>
+      <point x="281" y="156" type="line"/>
+      <point x="281" y="54" type="line"/>
+      <point x="227" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,137 @@
+@lc = [a b c d e f g h i j k l m n o p q r s t u v w x y z zero one two three four five six seven eight nine hyphen period comma colon semicolon exclam question ampersand parenleft parenright quoteleft quoteright endash emdash bullet at ];
+
+@cap = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z zero one two three four five six seven eight nine hyphen period comma colon semicolon exclam question ampersand parenleft parenright quoteleft quoteright endash emdash bullet at ];
+
+@ss1 = [A.ss1 B.ss1 C.ss1 D.ss1 E.ss1 F.ss1 G.ss1 H.ss1 I.ss1 J.ss1 K.ss1 L.ss1 M.ss1 N.ss1 O.ss1 P.ss1 Q.ss1 R.ss1 S.ss1 T.ss1 U.ss1 V.ss1 W.ss1 X.ss1 Y.ss1 Z.ss1 zero.ss1 one.ss1 two.ss1 three.ss1 four.ss1 five.ss1 six.ss1 seven.ss1 eight.ss1 nine.ss1 hyphen.ss1 period.ss1 comma.ss1 colon.ss1 semicolon.ss1 exclam.ss1 question.ss1 ampersand.ss1 parenleft.ss1 parenright.ss1 quoteleft.ss1 quoteright.ss1 endash.ss1 emdash.ss1 bullet.ss1 at.ss1];
+
+@ss2 = [A.ss2 B.ss2 C.ss2 D.ss2 E.ss2 F.ss2 G.ss2 H.ss2 I.ss2 J.ss2 K.ss2 L.ss2 M.ss2 N.ss2 O.ss2 P.ss2 Q.ss2 R.ss2 S.ss2 T.ss2 U.ss2 V.ss2 W.ss2 X.ss2 Y.ss2 Z.ss2 zero.ss2 one.ss2 two.ss2 three.ss2 four.ss2 five.ss2 six.ss2 seven.ss2 eight.ss2 nine.ss2 hyphen.ss2 period.ss2 comma.ss2 colon.ss2 semicolon.ss2 exclam.ss2 question.ss2 ampersand.ss2 parenleft.ss2 parenright.ss2 quoteleft.ss2 quoteright.ss2 endash.ss2 emdash.ss2 bullet.ss2 at.ss2 ] ;
+
+@ss3 = [A.ss3 B.ss3 C.ss3 D.ss3 E.ss3 F.ss3 G.ss3 H.ss3 I.ss3 J.ss3 K.ss3 L.ss3 M.ss3 N.ss3 O.ss3 P.ss3 Q.ss3 R.ss3 S.ss3 T.ss3 U.ss3 V.ss3 W.ss3 X.ss3 Y.ss3 Z.ss3 zero.ss3 one.ss3 two.ss3 three.ss3 four.ss3 five.ss3 six.ss3 seven.ss3 eight.ss3 nine.ss3 hyphen.ss3 period.ss3 comma.ss3 colon.ss3 semicolon.ss3 exclam.ss3 question.ss3 ampersand.ss3 parenleft.ss3 parenright.ss3 quoteleft.ss3 quoteright.ss3 endash.ss3 emdash.ss3 bullet.ss3 at.ss3 ] ;
+
+@ss4 = [A.ss4 B.ss4 C.ss4 D.ss4 E.ss4 F.ss4 G.ss4 H.ss4 I.ss4 J.ss4 K.ss4 L.ss4 M.ss4 N.ss4 O.ss4 P.ss4 Q.ss4 R.ss4 S.ss4 T.ss4 U.ss4 V.ss4 W.ss4 X.ss4 Y.ss4 Z.ss4 zero.ss4 one.ss4 two.ss4 three.ss4 four.ss4 five.ss4 six.ss4 seven.ss4 eight.ss4 nine.ss4 hyphen.ss4 period.ss4 comma.ss4 colon.ss4 semicolon.ss4 exclam.ss4 question.ss4 ampersand.ss4 parenleft.ss4 parenright.ss4 quoteleft.ss4 quoteright.ss4 endash.ss4 emdash.ss4 bullet.ss4 at.ss4 ] ;
+
+@ss5 = [A.ss5 B.ss5 C.ss5 D.ss5 E.ss5 F.ss5 G.ss5 H.ss5 I.ss5 J.ss5 K.ss5 L.ss5 M.ss5 N.ss5 O.ss5 P.ss5 Q.ss5 R.ss5 S.ss5 T.ss5 U.ss5 V.ss5 W.ss5 X.ss5 Y.ss5 Z.ss5 zero.ss5 one.ss5 two.ss5 three.ss5 four.ss5 five.ss5 six.ss5 seven.ss5 eight.ss5 nine.ss5 hyphen.ss5 period.ss5 comma.ss5 colon.ss5 semicolon.ss5 exclam.ss5 question.ss5 ampersand.ss5 parenleft.ss5 parenright.ss5 quoteleft.ss5 quoteright.ss5 endash.ss5 emdash.ss5 bullet.ss5 at.ss5 ] ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature liga {
+	sub @lc by @cap ;
+  sub @cap @cap' by @ss1 ;
+  sub @ss1 @cap' by @ss2 ;  
+  sub @ss2 @cap' by @ss3 ;
+  sub @ss3 @cap' by @ss4 ;
+  sub @ss4 @cap' by @cap ;
+} liga;
+
+
+feature ss06 {
+  sub @cap @cap' by @ss1 ;
+  sub @ss1 @cap' by @ss2 ;  
+  sub @ss2 @cap' by @ss3 ;
+  sub @ss3 @cap' by @ss4 ;
+  sub @ss4 @cap' by @cap ;
+} ss06;
+
+feature ss05 {
+  sub @cap by @ss5 ;
+} ss05;
+
+feature ss04 {
+  sub @cap by @ss4 ;
+} ss04;
+
+feature ss03 {
+  sub @cap by @ss3 ;
+} ss03;
+
+feature ss02 {
+  sub @cap by @ss2 ;
+} ss02;
+
+feature ss01 {
+  sub @cap by @ss1 ;
+} ss01;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

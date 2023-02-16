@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.ss5" format="1">
+  <advance width="590"/>
+  <unicode hex="E038"/>
+  <outline>
+    <contour>
+      <point x="431" y="-16" type="line"/>
+      <point x="443" y="-28" type="line"/>
+      <point x="620" y="141" type="line"/>
+      <point x="608" y="153" type="line"/>
+      <point x="553" y="100" type="line"/>
+      <point x="290" y="368" type="line"/>
+      <point x="551" y="615" type="line"/>
+      <point x="608" y="562" type="line"/>
+      <point x="620" y="574" type="line"/>
+      <point x="441" y="745" type="line"/>
+      <point x="429" y="732" type="line"/>
+      <point x="483" y="680" type="line"/>
+      <point x="192" y="404" type="line"/>
+      <point x="192" y="682" type="line"/>
+      <point x="265" y="682" type="line"/>
+      <point x="265" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="20" y="682" type="line"/>
+      <point x="93" y="682" type="line"/>
+      <point x="93" y="18" type="line"/>
+      <point x="20" y="18" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="265" y="18" type="line"/>
+      <point x="192" y="18" type="line"/>
+      <point x="192" y="333" type="line"/>
+      <point x="482" y="33" type="line"/>
+    </contour>
+  </outline>
+</glyph>

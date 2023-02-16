@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.ss3" format="1">
+  <advance width="607"/>
+  <unicode hex="E018"/>
+  <outline>
+    <contour>
+      <point x="508" y="246" type="line"/>
+      <point x="508" y="51" type="line"/>
+      <point x="179" y="51" type="line"/>
+      <point x="179" y="331" type="line"/>
+      <point x="327" y="331" type="line"/>
+      <point x="327" y="224" type="line"/>
+      <point x="375" y="224" type="line"/>
+      <point x="375" y="496" type="line"/>
+      <point x="327" y="496" type="line"/>
+      <point x="327" y="382" type="line"/>
+      <point x="179" y="382" type="line"/>
+      <point x="179" y="649" type="line"/>
+      <point x="507" y="649" type="line"/>
+      <point x="507" y="475" type="line"/>
+      <point x="557" y="475" type="line"/>
+      <point x="557" y="700" type="line"/>
+      <point x="5" y="700" type="line"/>
+      <point x="5" y="649" type="line"/>
+      <point x="123" y="649" type="line"/>
+      <point x="123" y="51" type="line"/>
+      <point x="7" y="51" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="557" y="246" type="line"/>
+    </contour>
+  </outline>
+</glyph>

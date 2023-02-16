@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk.ss3" format="1">
+  <advance width="286"/>
+  <unicode hex="E10A"/>
+  <outline>
+    <contour>
+      <point x="256" y="517" type="line"/>
+      <point x="181" y="595" type="line"/>
+      <point x="256" y="673" type="line"/>
+      <point x="216" y="713" type="line"/>
+      <point x="142" y="635" type="line"/>
+      <point x="70" y="713" type="line"/>
+      <point x="30" y="673" type="line"/>
+      <point x="105" y="595" type="line"/>
+      <point x="30" y="517" type="line"/>
+      <point x="70" y="477" type="line"/>
+      <point x="144" y="553" type="line"/>
+      <point x="216" y="477" type="line"/>
+    </contour>
+  </outline>
+</glyph>

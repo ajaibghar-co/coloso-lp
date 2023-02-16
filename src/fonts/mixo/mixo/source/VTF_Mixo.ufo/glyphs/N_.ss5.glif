@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.ss5" format="1">
+  <advance width="702"/>
+  <unicode hex="E048"/>
+  <outline>
+    <contour>
+      <point x="622" y="-19" type="curve"/>
+      <point x="622" y="700" type="line"/>
+      <point x="340" y="700" type="line"/>
+      <point x="349" y="696"/>
+      <point x="580" y="470"/>
+      <point x="588" y="115" type="curve"/>
+      <point x="465" y="518"/>
+      <point x="126" y="720"/>
+      <point x="80" y="719" type="curve"/>
+      <point x="80" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="352" y="3"/>
+      <point x="119" y="260"/>
+      <point x="113" y="622" type="curve"/>
+      <point x="280" y="186"/>
+      <point x="619" y="-18"/>
+    </contour>
+  </outline>
+</glyph>

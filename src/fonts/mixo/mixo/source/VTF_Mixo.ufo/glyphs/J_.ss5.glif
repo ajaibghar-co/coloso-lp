@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss5" format="1">
+  <advance width="616"/>
+  <unicode hex="E033"/>
+  <outline>
+    <contour>
+      <point x="160" y="549" type="line"/>
+      <point x="381" y="549" type="line"/>
+      <point x="381" y="169" type="line"/>
+      <point x="381" y="159"/>
+      <point x="378" y="151"/>
+      <point x="367" y="151" type="curve"/>
+      <point x="223" y="151" type="line"/>
+      <point x="212" y="151"/>
+      <point x="205" y="156"/>
+      <point x="205" y="169" type="curve"/>
+      <point x="205" y="370" type="line"/>
+      <point x="50" y="210" type="line"/>
+      <point x="50" y="36" type="line"/>
+      <point x="50" y="14"/>
+      <point x="61" y="0"/>
+      <point x="88" y="0" type="curve"/>
+      <point x="501" y="0" type="line"/>
+      <point x="521" y="0"/>
+      <point x="536" y="13"/>
+      <point x="536" y="36" type="curve"/>
+      <point x="536" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

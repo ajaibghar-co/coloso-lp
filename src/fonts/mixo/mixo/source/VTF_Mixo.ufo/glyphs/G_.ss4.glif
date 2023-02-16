@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.ss4" format="1">
+  <advance width="729"/>
+  <unicode hex="E023"/>
+  <outline>
+    <contour>
+      <point x="412" y="-23" type="line"/>
+      <point x="544" y="113" type="line"/>
+      <point x="719" y="292" type="line"/>
+      <point x="680" y="467" type="line"/>
+      <point x="520" y="490" type="line"/>
+      <point x="684" y="659" type="line"/>
+      <point x="277" y="711" type="line"/>
+      <point x="276" y="710" type="line"/>
+      <point x="276" y="711" type="line"/>
+      <point x="76" y="507" type="line"/>
+      <point x="70" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="518" type="line"/>
+      <point x="510" y="485" type="line"/>
+      <point x="357" y="314" type="line"/>
+      <point x="503" y="291" type="line"/>
+      <point x="537" y="144" type="line"/>
+      <point x="263" y="244" type="line"/>
+    </contour>
+  </outline>
+</glyph>

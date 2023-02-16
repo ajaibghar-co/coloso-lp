@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.ss1" format="1">
+  <advance width="694"/>
+  <unicode hex="E03E"/>
+  <outline>
+    <contour>
+      <point x="447" y="504" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="721" type="line"/>
+      <point x="355" y="654" type="line"/>
+      <point x="80" y="720" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="506" type="line"/>
+      <point x="355" y="478" type="line"/>
+    </contour>
+  </outline>
+</glyph>

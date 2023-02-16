@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright.ss1" format="1">
+  <advance width="316"/>
+  <unicode hex="E0E4"/>
+  <outline>
+    <contour>
+      <point x="50" y="477" type="line"/>
+      <point x="172" y="477" type="line"/>
+      <point x="80" y="298" type="line"/>
+      <point x="113" y="298" type="line"/>
+      <point x="271" y="500" type="line"/>
+      <point x="271" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

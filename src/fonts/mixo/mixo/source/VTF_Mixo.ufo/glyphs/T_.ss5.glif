@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.ss5" format="1">
+  <advance width="580"/>
+  <unicode hex="E066"/>
+  <outline>
+    <contour>
+      <point x="187" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="299" y="653" type="line"/>
+      <point x="443" y="647"/>
+      <point x="558" y="525"/>
+      <point x="558" y="331" type="curve"/>
+      <point x="580" y="331" type="line"/>
+      <point x="580" y="700" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="0" y="331" type="line"/>
+      <point x="22" y="331" type="line"/>
+      <point x="22" y="525"/>
+      <point x="136" y="647"/>
+      <point x="281" y="653" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

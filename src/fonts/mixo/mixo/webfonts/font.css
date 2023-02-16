@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'VTF Mixo_Regular';
+    src:    url('VTF_Mixo-Regular_web.eot');
+    src:    url('VTF_Mixo-Regular_web.eot?#iefix') format('embedded-opentype'),
+            url('VTF_Mixo-Regular_web.woff') format('woff'),
+            url('VTF_Mixo-Regular_web.woff2') format('woff2'),
+            url('VTF_Mixo-Regular_web.ttf') format('truetype'),
+            url('VTF_Mixo-Regular_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

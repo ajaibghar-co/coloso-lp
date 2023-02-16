@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk.ss2" format="1">
+  <advance width="267"/>
+  <unicode hex="E109"/>
+  <outline>
+    <contour>
+      <point x="133" y="476" type="line"/>
+      <point x="50" y="540" type="line"/>
+      <point x="50" y="668" type="line"/>
+      <point x="133" y="731" type="line"/>
+      <point x="217" y="668" type="line"/>
+      <point x="217" y="540" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.ss2" format="1">
+  <advance width="343"/>
+  <unicode hex="E0C7"/>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="14" type="line"/>
+      <point x="3" y="14" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="26" type="line"/>
+      <point x="373" y="26" type="line"/>
+      <point x="373" y="41" type="line"/>
+      <point x="3" y="41" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="53" type="line"/>
+      <point x="373" y="53" type="line"/>
+      <point x="373" y="67" type="line"/>
+      <point x="3" y="67" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="94" type="line"/>
+      <point x="208" y="700" type="line"/>
+      <point x="187" y="700" type="line"/>
+      <point x="-40" y="425" type="line"/>
+      <point x="-40" y="405" type="line"/>
+      <point x="193" y="684" type="line"/>
+      <point x="193" y="670" type="line"/>
+      <point x="-40" y="388" type="line"/>
+      <point x="-40" y="367" type="line"/>
+      <point x="193" y="647" type="line"/>
+      <point x="193" y="633" type="line"/>
+      <point x="-40" y="350" type="line"/>
+      <point x="-40" y="330" type="line"/>
+      <point x="193" y="609" type="line"/>
+      <point x="193" y="595" type="line"/>
+      <point x="-40" y="313" type="line"/>
+      <point x="-40" y="292" type="line"/>
+      <point x="193" y="572" type="line"/>
+      <point x="193" y="94" type="line"/>
+      <point x="3" y="94" type="line"/>
+      <point x="3" y="79" type="line"/>
+      <point x="373" y="79" type="line"/>
+      <point x="373" y="94" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.ss3" format="1">
+  <advance width="379"/>
+  <unicode hex="E0D7"/>
+  <outline>
+    <contour>
+      <point x="186" y="-17" type="curve" smooth="yes"/>
+      <point x="220" y="-17"/>
+      <point x="246" y="10"/>
+      <point x="246" y="44" type="curve" smooth="yes"/>
+      <point x="246" y="88" type="line"/>
+      <point x="287" y="88" type="line" smooth="yes"/>
+      <point x="321" y="88"/>
+      <point x="349" y="115"/>
+      <point x="349" y="149" type="curve" smooth="yes"/>
+      <point x="349" y="184"/>
+      <point x="321" y="210"/>
+      <point x="287" y="210" type="curve" smooth="yes"/>
+      <point x="246" y="210" type="line"/>
+      <point x="246" y="253" type="line" smooth="yes"/>
+      <point x="246" y="287"/>
+      <point x="220" y="315"/>
+      <point x="186" y="315" type="curve" smooth="yes"/>
+      <point x="151" y="315"/>
+      <point x="124" y="287"/>
+      <point x="124" y="253" type="curve" smooth="yes"/>
+      <point x="124" y="211" type="line"/>
+      <point x="81" y="211" type="line" smooth="yes"/>
+      <point x="47" y="211"/>
+      <point x="20" y="184"/>
+      <point x="20" y="149" type="curve" smooth="yes"/>
+      <point x="20" y="115"/>
+      <point x="47" y="88"/>
+      <point x="81" y="88" type="curve" smooth="yes"/>
+      <point x="124" y="88" type="line"/>
+      <point x="124" y="44" type="line" smooth="yes"/>
+      <point x="124" y="10"/>
+      <point x="151" y="-17"/>
+    </contour>
+  </outline>
+</glyph>

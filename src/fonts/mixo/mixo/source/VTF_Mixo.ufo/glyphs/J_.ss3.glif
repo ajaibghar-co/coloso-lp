@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss3" format="1">
+  <advance width="449"/>
+  <unicode hex="E031"/>
+  <outline>
+    <contour>
+      <point x="60" y="511" type="line"/>
+      <point x="143" y="511" type="line"/>
+      <point x="143" y="613" type="line"/>
+      <point x="294" y="614" type="line"/>
+      <point x="293" y="172" type="line" smooth="yes"/>
+      <point x="293" y="104"/>
+      <point x="271" y="75"/>
+      <point x="220" y="75" type="curve" smooth="yes"/>
+      <point x="173" y="75"/>
+      <point x="144" y="104"/>
+      <point x="144" y="172" type="curve" smooth="yes"/>
+      <point x="144" y="270" type="line"/>
+      <point x="60" y="270" type="line"/>
+      <point x="60" y="172" type="line" smooth="yes"/>
+      <point x="60" y="31"/>
+      <point x="128" y="-10"/>
+      <point x="220" y="-10" type="curve" smooth="yes"/>
+      <point x="304" y="-10"/>
+      <point x="379" y="37"/>
+      <point x="379" y="172" type="curve" smooth="yes"/>
+      <point x="379" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

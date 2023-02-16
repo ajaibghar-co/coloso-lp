@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H.ss5" format="1">
+  <advance width="835"/>
+  <unicode hex="E029"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="755" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="665" type="line"/>
+      <point x="399" y="665" type="line"/>
+      <point x="399" y="450" type="line"/>
+      <point x="436" y="450" type="line"/>
+      <point x="436" y="665" type="line"/>
+      <point x="719" y="665" type="line"/>
+      <point x="719" y="35" type="line"/>
+      <point x="436" y="35" type="line"/>
+      <point x="436" y="250" type="line"/>
+      <point x="399" y="250" type="line"/>
+      <point x="399" y="35" type="line"/>
+      <point x="116" y="35" type="line"/>
+    </contour>
+  </outline>
+</glyph>

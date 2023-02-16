@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.ss1" format="1">
+  <advance width="517"/>
+  <unicode hex="E06C"/>
+  <outline>
+    <contour>
+      <point x="537" y="735" type="line"/>
+      <point x="268" y="206" type="line"/>
+      <point x="-20" y="736" type="line"/>
+      <point x="268" y="-41" type="line"/>
+    </contour>
+  </outline>
+</glyph>

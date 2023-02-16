@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.ss2" format="1">
+  <advance width="258"/>
+  <unicode hex="E0D1"/>
+  <outline>
+    <contour>
+      <point x="-45" y="814" type="line"/>
+      <point x="-98" y="761" type="line"/>
+      <point x="114" y="543" type="line"/>
+      <point x="114" y="133" type="line"/>
+      <point x="-98" y="-85" type="line"/>
+      <point x="-45" y="-138" type="line"/>
+      <point x="194" y="107" type="line"/>
+      <point x="194" y="569" type="line"/>
+    </contour>
+  </outline>
+</glyph>

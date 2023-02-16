@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.ss2" format="1">
+  <advance width="250"/>
+  <unicode hex="E02B"/>
+  <outline>
+    <contour>
+      <point x="-5" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="47" type="line"/>
+      <point x="181" y="47" type="line"/>
+      <point x="181" y="653" type="line"/>
+      <point x="255" y="653" type="line"/>
+      <point x="255" y="700" type="line"/>
+      <point x="-5" y="700" type="line"/>
+      <point x="-5" y="653" type="line"/>
+      <point x="69" y="653" type="line"/>
+      <point x="69" y="47" type="line"/>
+      <point x="-5" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="653" type="line"/>
+      <point x="103" y="653" type="line"/>
+      <point x="103" y="47" type="line"/>
+      <point x="81" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="653" type="line"/>
+      <point x="135" y="653" type="line"/>
+      <point x="135" y="47" type="line"/>
+      <point x="115" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="653" type="line"/>
+      <point x="169" y="653" type="line"/>
+      <point x="169" y="47" type="line"/>
+      <point x="147" y="47" type="line"/>
+    </contour>
+  </outline>
+</glyph>

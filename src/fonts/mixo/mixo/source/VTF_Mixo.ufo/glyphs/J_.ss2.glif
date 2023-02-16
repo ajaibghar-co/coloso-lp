@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss2" format="1">
+  <advance width="335"/>
+  <unicode hex="E030"/>
+  <outline>
+    <contour>
+      <point x="-50" y="207" type="line"/>
+      <point x="-50" y="135"/>
+      <point x="-30" y="85"/>
+      <point x="-9" y="50" type="curve" smooth="yes"/>
+      <point x="3" y="30"/>
+      <point x="17" y="13"/>
+      <point x="33" y="0" type="curve"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="700" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="150" y="48" type="line"/>
+      <point x="121" y="84"/>
+      <point x="90" y="138"/>
+      <point x="90" y="207" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
