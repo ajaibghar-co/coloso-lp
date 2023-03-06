@@ -47,8 +47,8 @@
 
 body {
   /* font-family: "Hermit-Light.otf", monospace; */
-  background: rgb(185,73,130);
-  background: radial-gradient(circle, rgba(185,73,130,1) 0%, rgba(173,213,174,1) 100%);
+  background: rgb(76, 76, 76);
+  background: radial-gradient(circle, #E0C7A3 0%, rgb(15, 15, 15) 100%);
 }
 
 pre {
@@ -58,17 +58,26 @@ pre {
 #title {
   /* float: right; */
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   width: 40em;
   padding: 2em;
   align-items: center ;
+  justify-content: center;
+  margin-top: 18em;
+
 }
 #welcome {
   /* padding:1em;   */
-  font-family: "tinyvar", serif;
-  font-size: 16em;
-  color: #b94982;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-family: "wethard", serif;
+  font-size: 20em;
+  color: #E0C7A3;
   font-variation-settings: "wght" 90;
+  /* align-items: center; */
+  mix-blend-mode: difference;
+  text-align: center;
   /* transition: font-variation-settings 0.3s ease; */
 
 }
@@ -78,18 +87,23 @@ pre {
 } */
 
 #inst {
-padding:1em;
+/* padding:1em; */
 margin-top: 2em;
+margin-left: 1.2em;
   /* font-family:  Courier, monospace; */
   font-family: 'Poppins', sans-serif;
   font-size: large;
- 
+  background-color: rgba(255, 255, 255, 0.6);
+  /* backdrop-filter: blur(10px); */
+}
+#inst div{
 }
 
 #inst p{
   padding:1em;
-  color: #fff;
+  color: #b94982;
 }
+
 @keyframes wacky {
   0% {
     font-variation-settings: "wght" 60;

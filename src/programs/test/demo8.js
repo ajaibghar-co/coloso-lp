@@ -27,13 +27,13 @@ const {sin, cos, floor, PI} = Math
 
 const PI23 = PI * 2 / 3
 const PI43 = PI * 4 / 3
-// const cam = Camera.init()
+const cam = Camera.init()
 const can = new Canvas()
 // For a debug view uncomment the following line:
 // can.display(document.body, 10, 10)
 const image = new Image();
 // image.src = '/src/coloso2.png';
-image.src = '/src/coloso10.jpg';
+image.src = '/src/coloso12.jpg';
 
 
 const density = sort(' ○•◘', 'Simple Console', false)
@@ -41,7 +41,7 @@ const density = sort(' ○•◘', 'Simple Console', false)
 
 // const density =  ' ○•◘█'
 const data = []
-
+const camdata = []
 export function pre(context, cursor, buffer) {
     
 	const a = context.metrics.aspect
@@ -51,6 +51,7 @@ export function pre(context, cursor, buffer) {
 	// The cover() function draws an image (cam) to the canvas covering the whole frame. The aspect ratio can be adjusted with the second
 	// parameter.
 	can.cover(image, a).normalize().writeTo(data)
+	can.cover(cam, a).mirrorX().normalize().writeTo(camdata)
     // console.log(data)
 }
 
@@ -64,14 +65,19 @@ export function main(coord, context, cursor, buffer) {
 		y : 2.0 * (coord.y - context.rows / 2) / m
 	}
 
-	const colors_wha = [ '#ADD5AE', '#E0C7A3', '#EEBC32', '#EDC8CB', '#B94982', '#B7AAD0', '#7495B1'] //'#CDD8E3', '#586945', 
+	// const colors_wha = [ '#ADD5AE', '#E0C7A3', '#EEBC32', '#EDC8CB', '#B94982', '#B7AAD0', '#7495B1'] //'#CDD8E3', '#586945', 
+	const colors_wha = [ '#E0C7A3', '#222'] //'#CDD8E3', '#586945', 
 
 
 	// Coord also contains the index of each cell (this gives the data from the image source 'img')
 	const color = data[coord.index]
 
+	const camcolor = camdata[coord.index]
+	
+	// console.log(camcolor)
     //this is the index value of the image derived from data  passed in can.cover and var color
 	const index = Math.floor(color.v * (density.length-1))
+	const camindex = Math.floor(camcolor.v * (density.length-1))
 
 
 	const t1 = context.time * 0.00009
@@ -90,8 +96,10 @@ export function main(coord, context, cursor, buffer) {
 
 	return {
 		char: density[index],
+		color: colors_wha[camindex],
 		// char: density[r*10 % colors_wha.length],
-		color: colors_wha[r*20 % colors_wha.length],
+		// color: colors_wha[r*20 % colors_wha.length],
+		// color: colors_wha[0],
 		// backgroundColor: 'white'	
 	}
 		
