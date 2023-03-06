@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<meta charset="utf-8">
+	<title>Test multi</title>
+	<link rel="stylesheet" type="text/css" href="/css/simple_console.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap" rel="stylesheet">
+	<style type="text/css" media="screen">
+		body {
+			background-color: #eeeeee;
+			/* margin:2em; */
+		}
+		pre {
+			/* margin: 1em; */
+            position: absolute;
+			margin:0;
+			padding:0;
+			left:0;
+			top:0;
+			width:100vw;
+			height:100vh;
+			/* width: 100%; */
+			/* height:22em; */
+			display: absolute;
+			font-size: 1em;
+			line-height: 1.2;
+			font-family: 'Simple Console', monospace;
+			/* background-color: white; */
+            z-index: -100;
+		}
+
+	</style>
+</head>
+<div>
+	<pre id="factory"></pre>
+
+	<script type="module">
+		import    { run } from '/src/run.js'
+		import * as prog0 from '/src/programs/test/demo8.js'
+		// import * as prog1 from '/src/programs/test/demo8.js'
+		// import * as prog2 from '/src/programs/test/demo5.js'
+
+
+		const pre = document.querySelectorAll('pre')
+		run(prog0, { element : pre[0] } ).catch(errorHandler)
+		// run(prog1, { element : pre[1] } ).catch(errorHandler)
+		// run(prog2, { element : pre[2] } ).catch(errorHandler)
+		
+
+		function errorHandler(e) {
+			console.warn(e.message)
+			console.log(e.error)
+		}
+	</script>
+    <!-- <script>
+
+        function updateText(e) {
+            const myText = document.getElementById('inst')
+            multiplierWidth = e.offsetX / window.innerWidth;
+            multiplierHeight = e.offsetY / window.innerHeight;
+            randomWeight =  multiplierWidth * (200 - 35) + 35;
+            randomWidth =  multiplierHeight * (200 - 100) + 100;
+            myText.style.fontVariationSettings = "\"wght\" " + randomWeight ;
+        }
+
+        window.addEventListener("mousemove", updateText)
+    </script> -->
+    <div id="title">
+    	<h1 id="welcome">COLOSO</h1>
+    	<!-- <div id="inst"><p>
+            Welcome to COLOSO
+
+LGBTQ+ spaces of congregation have not been formally validated, documented, or theorized in Puerto Rican architectural discourse. In addition, these venues—shops, bars, clubs, among others—have been disappearing from the built environment due to enormous forces: mass migration to the US, a decade-plus-long economic recession.
+        </p></div> -->
+    </div>
+</body>
+</html>
